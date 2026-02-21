@@ -1,0 +1,4 @@
+flask
+mido
+python-rtmidi
+requests
