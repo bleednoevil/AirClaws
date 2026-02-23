@@ -2,14 +2,22 @@
 Wearable Hardware Control for OpenClaw (AirPods Pro 2 compatible)
 
 AirClaws - macOS Version (Tested on 2017 macOS i5 & 2022 Apple M1)
--Author: Ray Cervantes aka $pill_bl**d
--nobloodyregrets@gmail.com
--www.linkedin.com/in/raycervantes
--For Research/Educational/Art Purposes Only If Cited Correctly
--Any Commercial Use is a Violation of United States Laws & Bleed No Evil
--Created 2/22/2026
--AirBleed 📡🩸 Proof of Concept Prototype: AirClaws
--© 2026 Ray Cervantes
+
+Author: Ray Cervantes aka $pill_bl**d
+
+nobloodyregrets@gmail.com
+
+www.linkedin.com/in/raycervantes
+
+For Research/Educational/Art Purposes Only If Cited Correctly
+
+Any Commercial Use is a Violation of United States Laws & Bleed No Evil
+
+Created 2/22/2026
+
+AirBleed 📡🩸 Proof of Concept Prototype: AirClaws
+
+© 2026 Ray Cervantes
 
 Executes by Bluetooth, Wi-Fi, & Cellular.
 Loading command while audio playing requires a pause press then a play press again to execute command (2x button press).
